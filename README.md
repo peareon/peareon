@@ -38,13 +38,13 @@
 
 ## Proyects
 
-1 [Animal map] (https://github.com/peareon/animal-map)
-- The app returns details of a certain specie along with a map that depicts their habitat
-2 [Photoemas] (https://github.com/peareon/fotoemas)
-- This is an app I created intending to show my phtograpghy work.
-3 [Music finder] (https://github.com/peareon/Music-App)
-- This app takes an artist as a parameter and fetches related songs to them.
-4 [ANRAMO] (https://github.com/peareon/pottery)
-- This is an eCommerce website designed for pottery products
+1. [Animal map] (https://github.com/peareon/animal-map)
+  - The app returns details of a certain specie along with a map that depicts their habitat
+2. [Photoemas] (https://github.com/peareon/fotoemas)
+  - This is an app I created intending to show my phtograpghy work.
+3. [Music finder] (https://github.com/peareon/Music-App)
+  - This app takes an artist as a parameter and fetches related songs to them.
+4. [ANRAMO] (https://github.com/peareon/pottery)
+  - This is an eCommerce website designed for pottery products
 -----
 Credits: [Aditya Vikram Singh](https://github.com/AVS1508)
